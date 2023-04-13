@@ -11,3 +11,4 @@ el "outDir": "./dist", le asignamos la carpeta dist
 src agregamos el index.ts
 pages
 4 despues creamos un archivo .gitignore y agregamos el nombre del archivo que no vamos a subir al repositorio
+5 recordemos que en caso de querer clonar el respositorio solo deben hacer el comando git clone pegan el link del proyecto y despues abren la consola del proyecto y ejecutamos en npm install 6. lo que realizamos fue agregar una rama llammada jofran; git checkout -b dev_jofran
